@@ -1,12 +1,8 @@
-import 'dart:io' as io;
-import 'dart:io';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_core/firebase_core.dart';
-import 'package:firebase_storage/firebase_storage.dart';
-import 'package:flutter/foundation.dart';
+
 import 'package:flutter/material.dart';
-import 'package:image_picker/image_picker.dart';
+
 
 class UsersDetails extends StatefulWidget {
   static const String id = "User_Details";

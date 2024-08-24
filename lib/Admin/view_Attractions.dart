@@ -99,6 +99,7 @@ class _ViewCategariesitemsState extends State<ViewCategariesitems> {
                         : Image.file(_imageFile,
                             height:
                                 200) // Display local image file on mobile/desktop
+                  // ignore: unnecessary_null_comparison
                   else if (imageUrls != null)
                     Container(
                       padding: EdgeInsets.all(10.0),

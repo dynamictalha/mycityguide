@@ -1,6 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:mycityguide/Services/data.dart';
 import 'package:mycityguide/pages/BottomNav/write_review.dart';
 // import 'package:tourister/Pages/detailed/Overview.dart';
